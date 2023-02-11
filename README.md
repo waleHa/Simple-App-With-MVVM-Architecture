@@ -1,10 +1,10 @@
-# Simple-App-With-MVP-Architecture
+# Simple-App-With-MVM-Architecture
 
 This is very simple app to practice MVP Architecture using the following public API:
 https://zenquotes.io/api/random
 
 
-![image](https://user-images.githubusercontent.com/22231670/218235185-6d36e3f2-7e41-4d0c-83e4-d49e4c0a070d.png)
+![image](https://user-images.githubusercontent.com/22231670/218285566-a48e62b9-e19b-4621-9a1a-98184f267e1f.png)
 
 Alwaleed Hamam
 Android Kotlin
