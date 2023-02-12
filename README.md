@@ -1,4 +1,4 @@
-# Simple-App-With-MVM-Architecture
+# Simple-App-With-MVVM-Architecture
 
 This is very simple app to practice MVVM Architecture using the following public API:
 https://zenquotes.io/api/random
