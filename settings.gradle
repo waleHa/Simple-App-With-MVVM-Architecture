@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MVVM Simple Design"
 include ':app'
+include ':data'

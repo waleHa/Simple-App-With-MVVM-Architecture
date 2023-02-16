@@ -1,4 +1,4 @@
-package com.wa7a.MVVMSimpleDesign.data.model
+package com.wa7a.mvvmapp.data.model
 
 import com.google.gson.annotations.SerializedName
 
